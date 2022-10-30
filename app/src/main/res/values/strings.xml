@@ -5,4 +5,6 @@
     <string name="Resep">blender sampai halus bahan nya</string>
     <string name="price">Harga :</string>
     <string name="Harga_Cenil">Rp.20.000</string>
+    <string name="navigation_drawer_open">Open NavigationDrawer</string>
+    <string name="navigation_drawer_close">Close NavigationDrawer</string>
 </resources>
